@@ -1,0 +1,19 @@
+open ps
+ to install angular- install angular cli using cmd
+
+to create a project - ng new file name
+
+
+
+ON VSCODE
+To run on localhost type - ng serve
+
+to install bootsrap - npm install bootsrap >>> then goto angular.json under architect/styles add "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+
+ >>> then goto angular.json under architect/script add   "./node_modules/bootstrap/dist/js/bootstrap.js"
+
+
+ to install jquery - npm install jquery
+
+
+To generate new componenet  -  ng generate componenet foldername/name
